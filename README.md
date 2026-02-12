@@ -3,14 +3,16 @@
 ![Modern C++ template][github-sub-title:img]
 
 [![酷安主页](https://img.shields.io/badge/酷安-主页-yellow)](http://www.coolapk.com/u/34247294)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![QQ频道](https://img.shields.io/badge/QQ-频道-red)](点击链接加入腾讯频道【搞机CLUB】：https://pd.qq.com/s/hc5imwgeg?b=9)
 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+![](https://img.shields.io/badge/年龄-00后-yellow) 
+![](https://img.shields.io/badge/性格-热情-red) 
+![](https://img.shields.io/badge/爱好-搞机-red)
+
+
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](image/)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=我是柳意，欢迎光临我的空间
