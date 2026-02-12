@@ -4,8 +4,9 @@
 
 [![酷安主页](https://img.shields.io/badge/酷安-主页-yellow)](http://www.coolapk.com/u/34247294)
 [![QQ频道](https://img.shields.io/badge/QQ-频道-red)](https://pd.qq.com/s/hc5imwgeg?b=9)
+[![为爱发电](https://img.shields.io/badge/为爱-发电-red)](https://ifdian.net/a/Liu_Yi)
 
-![](https://img.shields.io/badge/年龄-00后-yellow) 
+
 ![](https://img.shields.io/badge/性格-热情-red) 
 ![](https://img.shields.io/badge/爱好-搞机-red)
 
@@ -99,3 +100,6 @@ I use an automatic subscription control system. Thus, everyone who subscribes to
 [for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
 
 ![](assets/Bottom_down.svg)
+
+
+
