@@ -2,10 +2,9 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![酷安主页](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%-yello)](http://www.coolapk.com/u/34247294)
+[![酷安主页](https://img.shields.io/badge/酷安-主页-yellow)](http://www.coolapk.com/u/34247294)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
@@ -14,4 +13,4 @@
 
 ![头像](image/头像.jpg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=我是柳意，一个零零后半吊子开发者，很高兴能引起你的注意
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=我是柳意，欢迎光临我的空间
