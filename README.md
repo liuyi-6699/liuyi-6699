@@ -91,24 +91,11 @@
 
 **📫 How to Reach me:
 
-Trophy: Github Profile Trophy
-
-graph TD; machine-learning-->Data; machine-learning-->Algorithms; machine-learning-->Statistical-Models; machine-learning-->Feature-Engineering; machine-learning-->Evaluation-Metrics; machine-learning-->Deployment;
-Trophy: Hackerrank Profile Trophy
-
-
-
-{"type": "FeatureCollection","features": [ { "type": "Feature", "id": 1, "properties": { "ID": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [23.5,53.9], [32.6,52.6] ] ] } }]}
-
 Thanks for visiting :heart:
 
-counting of visitors to this page in this section started from May 8, 2022
-Star History
+I hope to bring more high-quality content to everyone
 
-Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-MIT
+My email: liuyi615708@gmail.com
 
 --------------------
 If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.
