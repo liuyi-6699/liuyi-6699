@@ -3,7 +3,7 @@
 ![Modern C++ template][github-sub-title:img]
 
 [![酷安主页](https://img.shields.io/badge/酷安-主页-yellow)](http://www.coolapk.com/u/34247294)
-[![QQ频道](https://img.shields.io/badge/QQ-频道-red)](点击链接加入腾讯频道【搞机CLUB】：https://pd.qq.com/s/hc5imwgeg?b=9)
+[![QQ频道](https://img.shields.io/badge/QQ-频道-red)](https://pd.qq.com/s/hc5imwgeg?b=9)
 
 ![](https://img.shields.io/badge/年龄-00后-yellow) 
 ![](https://img.shields.io/badge/性格-热情-red) 
@@ -13,6 +13,6 @@
 
 </div>
 
-![头像](image/)
+![头像](image/头像.jpg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=我是柳意，欢迎光临我的空间
